@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian/Java10x/Java Intermediario/Conjuntos e elementos.md",
+                "file": "obsidian/Java10x/Java Intermediario/Array_Listas/Conjuntos e elementos.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,12 +160,13 @@
   },
   "active": "09807a634e823f5a",
   "lastOpenFiles": [
+    "obsidian/Java10x/Java Intermediario/Array_Listas/Listas.md",
+    "obsidian/Java10x/Java Intermediario/Array_Listas/Conjuntos e elementos.md",
+    "obsidian/Java10x/Java Intermediario/Array_Listas",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitConfig Manguinho.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub.md",
-    "obsidian/Java10x/Java Intermediario/Conjuntos e elementos.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/métodos em Java/Método is.Empty().md",
     "obsidian/JavaEstudos/Java Rocketseat/Projeto Gestão de Vagas/Rotas, Autenticação e Autorização.md",
-    "obsidian/Java10x/Java Intermediario/Listas.md",
     "Git/Comandos.md",
     "Git/Comandos_Git/Git.md",
     "obsidian/Comandos Git-GitHub/2545add34e4fec21ec16-c64848ecdf1ff78751d0a9906063091271790f48/git.md",
@@ -179,7 +180,6 @@
     "teste/tezte.md",
     "teste",
     "Git",
-    "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/validation/src/test/java/com/manning/javapersistence/ch03/validation/ModelValidation.java",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Introdução.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Herança.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Encapsulamento.md",
@@ -195,7 +195,6 @@
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 11 - Compliance.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 10 - Security.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 1 - Introduction to GitHub Actions.md",
-    "obsidian/DavJaveiro_RoadMap_Study-main/Engenharia de Software/2024.2/Análise e Modelagem de Sistemas/Encerramento da Unidade.md",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 3 - O contexto do Spring - Fiação de beans.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções-1.png",
