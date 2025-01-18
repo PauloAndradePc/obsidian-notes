@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Comandos.md",
+                "file": "teste/tezte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos"
+              "title": "tezte"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "692447b9b8ab579b",
@@ -162,6 +161,8 @@
   "active": "09807a634e823f5a",
   "lastOpenFiles": [
     "Git/Comandos.md",
+    "teste/tezte.md",
+    "teste",
     "Git",
     "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/validation/src/test/java/com/manning/javapersistence/ch03/validation/ModelValidation.java",
     "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/validation/src/main/java/com/manning/javapersistence/ch03/validation/Item.java",
@@ -171,7 +172,6 @@
     "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/metadataxmljpa/src/main/java/com/manning/javapersistence/ch03/metadataxmljpa/Item.java",
     "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/metamodel/src/test/java/com/manning/javapersistence/ch03/metamodel/MetamodelTest.java",
     "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/metamodel/src/main/java/com/manning/javapersistence/ch03/metamodel/Item.java",
-    "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/domainmodel/src/main/java/com/manning/javapersistence/ch03/ex05/package-info.java",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Introdução.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Herança.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Encapsulamento.md",
@@ -196,7 +196,6 @@
     "obsidian/JavaEstudos/Java Rocketseat/Java Collections/Conjuntos e elementos.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Palavras Reservadas e Tipos Primitivos.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Tipos Wrapers.md",
-    "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/JavaBeans.md",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 3 - O contexto do Spring - Fiação de beans.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções-1.png",
