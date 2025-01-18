@@ -1,3 +1,0 @@
-.markdown-preview-view em {
-    color:#FF5733; 
-}
