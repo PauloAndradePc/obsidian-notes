@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/tezte.md",
+                "file": "Git/Comandos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tezte"
+              "title": "Comandos"
             }
           }
         ]
@@ -160,8 +160,8 @@
   },
   "active": "09807a634e823f5a",
   "lastOpenFiles": [
-    "Git/Comandos.md",
     "teste/tezte.md",
+    "Git/Comandos.md",
     "teste",
     "Git",
     "obsidian/DavJaveiro_RoadMap_Study-main/Java Persistence with Spring Data e Hibernate/Capítulo 3 - Domain Models and Metadata/Ch03/validation/src/test/java/com/manning/javapersistence/ch03/validation/ModelValidation.java",
