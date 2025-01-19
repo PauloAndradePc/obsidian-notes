@@ -1,5 +1,3 @@
-
-
 ### Estrutura Típica de Pacotes em Java
 
 Uma estrutura comum de pacotes em projetos Java, especialmente usando o padrão de arquitetura como **MVC (Model-View-Controller)** ou **camadas**, é algo assim:
