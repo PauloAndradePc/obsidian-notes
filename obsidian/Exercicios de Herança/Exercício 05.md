@@ -50,3 +50,15 @@ CopiarEditar
     - Instancie o pet shop.
     - Adicione diferentes tipos de animais ao pet shop.
     - Liste os animais cadastrados.
+============================================================= =============================================================
+
+com.petshop
+├── modelo
+│   ├── Animal.java
+│   ├── Cachorro.java
+│   ├── Gato.java
+│   └── Ave.java
+├── servico
+│   └── PetShop.java
+└── main
+    └── Main.java
