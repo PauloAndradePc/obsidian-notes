@@ -83,5 +83,5 @@ Neste exemplo, podemos ver que o que fizemos foi utilizar a operação de #add c
 
 O metodo `Contains()` e utilizado em Java para sabermos se um elemento especifico esta presente em uma #Coleção (ArrayList)
 
-Quando chamamos o metodo `Contains()` em um #ArrayList ele verifica se uma determinada palavra esta dentro da lista. Método `contains()` retorna uma valor #booleano , caso o elemento esteja presente ele retorna como #true se não estiver presente ele retorna como #false 
+Quando chamamos o método `Contains()` em um #ArrayList ele verifica se uma determinada palavra esta dentro da lista. Método `contains()` retorna uma valor #booleano , caso o elemento esteja presente ele retorna como #true se não estiver presente ele retorna como #false 
 
