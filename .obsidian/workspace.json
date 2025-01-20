@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Java10x/Java Intermediario/Aula 04 - Herança - O primeiro pilar da orientaçao a objeto/Herança.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Herança"
             }
           },
           {
@@ -163,8 +164,13 @@
   },
   "active": "09807a634e823f5a",
   "lastOpenFiles": [
-    "obsidian/Java10x/Java Intermediario/Aula 04 - Herança - O primeiro pilar da orientaçao a objeto/Exercicios de Herança/Exercício 05.md",
+    "[Abrindo.md",
     "obsidian/Java10x/Java Intermediario/Aula 04 - Herança - O primeiro pilar da orientaçao a objeto/Herança.md",
+    "![[TwoDShape.md",
+    "TwoDShape 1.java",
+    "![[TwoDShape.java]].md",
+    "TwoDShape.java",
+    "obsidian/Java10x/Java Intermediario/Aula 04 - Herança - O primeiro pilar da orientaçao a objeto/Exercicios de Herança/Exercício 05.md",
     "obsidian/Java10x/Java Intermediario/Array_Listas/Listas.md",
     "obsidian/Java10x/Java Intermediario/Aula 04 - Herança - O primeiro pilar da orientaçao a objeto",
     "Estrutura de Pacotes Java/Pacotes em Java/Pacotes.md",
@@ -184,8 +190,6 @@
     "obsidian/Comandos Git-GitHub/2545add34e4fec21ec16-c64848ecdf1ff78751d0a9906063091271790f48",
     "obsidian/Comandos Git-GitHub",
     "obsidian/Nova pasta",
-    "obsidian/Git_GitHub_Comandos/comandos.zip",
-    "obsidian/Git_GitHub_Comandos/Não confirmado 437162.crdownload",
     "teste/tezte.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Introdução.md",
     "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Herança.md",
@@ -196,9 +200,6 @@
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 6 - Self-hosted runners.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 5 - Runners.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 4 - GitHub Actions.md",
-    "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 3 - Workflows.md",
-    "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 2 - Hands-on My First Actions Workflow.md",
-    "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub Actions In Action/Capítulo 12 - Improving workflow performance and costs.md",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 3 - O contexto do Spring - Fiação de beans.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções-1.png",
