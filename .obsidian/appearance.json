@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "textFontFamily": "Comic Sans MS",
+  "interfaceFontFamily": "Cascadia Mono"
 }

@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#super",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09807a634e823f5a",
+  "active": "0af88596781ce84d",
   "lastOpenFiles": [
     "[Abrindo.md",
     "obsidian/Java10x/Java Intermediario/Aula 04 - Herança - O primeiro pilar da orientaçao a objeto/Herança.md",
