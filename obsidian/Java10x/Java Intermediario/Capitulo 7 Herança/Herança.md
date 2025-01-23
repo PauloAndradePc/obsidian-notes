@@ -45,3 +45,15 @@ A lista de parâmetros especifica qualquer parâmetro requerido pelo construtor 
 [exemplo](file:///G:/Meu%20Drive/CursoJava/Aula%2004%20-Heran%C3%A7a%20-%20O%20primeiro%20pilar%20da%20orienta%C3%A7ao%20a%20objeto/Heran%C3%A7a/UsandoSuperParaChamarConstrutoresDaSuperclasse/TwoDShape.Java)
 
 Revisemos o conceito chave de *super()*. Quando uma ***subclasse*** chama *super()*, esta chamando o construtor da **superclasse** imediatamente acima da classe chamadora. Além disso *super()* deve ser sempre a primeira instrução a ser executada dentro de um construtor da **subclasse**.
+
+# Usando classes #abstrato 
+
+O método abstrato e criado pela especificação do modificador do tipo *abstract*. Ele não contem corpo e, portanto, não e implementado pela superclasse. Logo, uma subclasse deve sobrepô-lo não pode apenas usar versões definidas na superclasse. Para declarar um método abstrato, use esta forma geral:
+```Java
+abstract tipo nome(lista-parâmetros);
+```
+Como ficou claro, não há um corpo de método presente. O modificador *abstract* só pode ser usado em métodos de instância. Ele não pode ser aplicado a métodos *Static* ou *construtor*. 
+
+**Uma classe que contem um ou mais métodos abstratos também deve ser declarada como abstrata perecendo sua declaração** *class* **com o modificador** *abstract* 
+
+Quando uma subclasse herda uma uma classe abstrata, ela deve implementar todos os métodos da superclasse. Portanto o atributo *abstract* e herdado ate uma implementação completa ser obtida.
