@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Rocketseat/Polimorfismo/Polimorfismo.md",
+                "file": "Java10x/Pacotes/Pacotes em Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polimorfismo"
+              "title": "Pacotes em Java"
             }
           }
         ]
@@ -175,14 +175,20 @@
   },
   "active": "8ec0bcb5bafc3a9b",
   "lastOpenFiles": [
-    "Java Rocketseat/Abstração/Abstração.md",
-    "Java Rocketseat/Polimorfismo/Polimorfismo.md",
-    "Java Rocketseat/Polimorfismo",
-    "obsidian/Java10x/Java Intermediario/2 - Herança/Herança.md",
+    "Java10x/Polimorfismo/Sobrecarga.md",
+    "Java10x/Pacotes/Pacotes em Java.md",
+    "Java10x/Pacotes",
+    "Java10x/Interfaces/Sem título.md",
+    "Java10x/Interfaces",
+    "Java10x/Polimorfismo/Polimorfismo.md",
+    "Java10x/Herança/Herança.md",
+    "Java10x/Herança",
+    "Java10x/Abstração/Abstração.md",
+    "Java10x/Polimorfismo",
     "Java RocketSeats/API do Curso.md",
     "Sem título.md",
-    "Java Rocketseat/Abstração",
-    "Java Rocketseat",
+    "Java10x/Abstração",
+    "Java10x",
     "Java RocketSeats",
     "obsidian/Java10x/Java Iniciantes/LocalDate.md",
     "[Abrindo.md",
@@ -196,11 +202,8 @@
     "TwoDShape.java",
     "obsidian/Java10x/Java Intermediario/Capitulo 7 Herança/Exercicios de Herança/Exercício 05.md",
     "obsidian/Java10x/Java Intermediario/1 - Array_Listas/Listas.md",
-    "obsidian/Java10x/Java Intermediario/2 - Herança",
     "Estrutura de Pacotes Java/Pacotes em Java/Pacotes.md",
     "Pacotes Java.md",
-    "Estrutura de Pacotes Java/Pacotes em Java",
-    "Estrutura de Pacotes Java",
     "obsidian/Java10x/Java Intermediario/1 - Array_Listas/Conjuntos e elementos.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitConfig Manguinho.md",
     "obsidian/JavaEstudos/Estudos_PauloAndrade/Git/GitHub.md",
@@ -208,9 +211,6 @@
     "obsidian/JavaEstudos/Java Rocketseat/Projeto Gestão de Vagas/Rotas, Autenticação e Autorização.md",
     "Git/Comandos.md",
     "Git/Comandos_Git/Git.md",
-    "obsidian/Comandos Git-GitHub/2545add34e4fec21ec16-c64848ecdf1ff78751d0a9906063091271790f48/git.md",
-    "teste/tezte.md",
-    "obsidian/JavaEstudos/Java Rocketseat/Fundamentos do Java/Pilares do POO/Introdução.md",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 3 - O contexto do Spring - Fiação de beans.png",
     "obsidian/DavJaveiro_RoadMap_Study-main/Spring Start Here/Imagens/Capítulo 9 - Tratamento de Exceções-1.png",
